@@ -152,11 +152,12 @@ Step 6: Configure Agents (Workers)
 </p>
 <br />
 
+<p> + Under the "Teams" tab: select "Online Banking" and click "Create"</p>
+
 <p>
 <img src="https://github.com/bigbearbunkie/osTicket-Post-Installation-Configuration/blob/main/Post%20install%20step%206e.PNG?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
-<p> + Under the "Teams" tab: select "Online Banking" and click "Create"
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
