@@ -68,9 +68,31 @@ Step 2: Configure Roles
 <p>
 <img src="https://github.com/bigbearbunkie/osTicket-Post-Installation-Configuration/blob/main/Post%20install%20step%202g.PNG?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+<br />
+
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Step 3: Configure Departments (Ticket Visibility, Help Desk vs SysAdmins, vs Networking)
+<p>
+
+<p> + In the Admin Panel, Agents -> Departments -> "Add New Department"</p>
+<p> + Name it "SysAdmins" and click "Create Dept"</p>
+
+<p>
+<img src="https://github.com/bigbearbunkie/osTicket-Post-Installation-Configuration/blob/main/Post%20install%20step%203.PNG?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+
+<p>
+<img src="https://github.com/bigbearbunkie/osTicket-Post-Installation-Configuration/blob/main/Post%20install%20step%203b.PNG?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
+<p>
+Step 4: Configure Teams
+</p>
+
+<p> + In the Admin Panel, Agents -> Teams -> "Add New Team"</p>
+<p> + Name it "Online Banking" and click "Create Team"</p>
+
 <br />
 
 <p>
