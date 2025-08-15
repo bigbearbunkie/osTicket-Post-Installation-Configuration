@@ -74,7 +74,7 @@ Step 2: Configure Roles
 Step 3: Configure Departments (Ticket Visibility, Help Desk vs SysAdmins, vs Networking)
 <p>
 
-<p> + In the Admin Panel, Agents -> Departments -> "Add New Department"</p>
+<p> + In the Admin Panel: Agents ->   Departments -> "Add New Department"</p>
 <p> + Name it "SysAdmins" and click "Create Dept"</p>
 
 <p>
@@ -90,23 +90,73 @@ Step 3: Configure Departments (Ticket Visibility, Help Desk vs SysAdmins, vs Net
 Step 4: Configure Teams
 </p>
 
-<p> + In the Admin Panel, Agents -> Teams -> "Add New Team"</p>
+<p> + In the Admin Panel:   Agents -> Teams -> "Add New Team"</p>
 <p> + Name it "Online Banking" and click "Create Team"</p>
 
+<p>
+<img src="https://github.com/bigbearbunkie/osTicket-Post-Installation-Configuration/blob/main/Post%20install%20step%204.PNG?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+<p>
+<img src="https://github.com/bigbearbunkie/osTicket-Post-Installation-Configuration/blob/main/Post%20install%20step%204b.PNG?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Step 5: Allow Anyone to Create Tickets
 </p>
+
+<p> + In the Admin Panel:   Settings -> User Settings (LEAVE UNCHECKED: unregistered users can create tickets)</p>
+
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<img src="https://github.com/bigbearbunkie/osTicket-Post-Installation-Configuration/blob/main/Post%20install%20Step%205.PNG?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Step 6: Configure Agents (Workers)
 </p>
+
+<p> + In the Admin Panel:  Agents -> Add New </p>
+<p> + Under the "Account" tab: </p>
+ <br />
+<p>      - Name: Jane Doe</p>
+<p>      - Email: Jane@gmail.com</p>
+<p>      - Username: Jane</p>
+
 <p>
+<img src="https://github.com/bigbearbunkie/osTicket-Post-Installation-Configuration/blob/main/Post%20install%20step%206.PNG?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+<p> + Click "Set Password", uncheck both boxes in the new window, set password to "Password1"</p>
+
+<p>
+<img src="https://github.com/bigbearbunkie/osTicket-Post-Installation-Configuration/blob/main/Post%20install%20step%206b.PNG?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
+<p> + Under the "Access" tab: </p>
+<br />
+<p>      - Department: SysAdmins </p>
+<p>      - Role: Supreme Admin</p>
+
+<p>
+<img src="https://github.com/bigbearbunkie/osTicket-Post-Installation-Configuration/blob/main/Post%20install%20step%206c.PNG?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
+<p> + Under the "Permissions" tab: Select every option</p>
+
+<p>
+<img src="https://github.com/bigbearbunkie/osTicket-Post-Installation-Configuration/blob/main/Post%20install%20step%206d.PNG?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
+<p>
+<img src="https://github.com/bigbearbunkie/osTicket-Post-Installation-Configuration/blob/main/Post%20install%20step%206e.PNG?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+<p> + Under the "Teams" tab: select "Online Banking" and click "Create"
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
