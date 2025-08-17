@@ -158,6 +158,127 @@ Step 6: Configure Agents (Workers)
 <img src="https://github.com/bigbearbunkie/osTicket-Post-Installation-Configuration/blob/main/Post%20install%20step%206e.PNG?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+<p> + Make another agent:</p>
+<br />
+<p> - Name: John Doe</p>
+<p> - Email: John@gmail.com</p>
+<p> - Username: John</p>
+<p> - Password: Password1</p>
+
+<p>
+<img src="https://github.com/bigbearbunkie/osTicket-Post-Installation-Configuration/blob/main/Post%20install%20step%206f.PNG?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
+<p> + Under "Access" tab:</p>
+<br />
+<p> - Department: Support</p>
+<p> - Role: View Only</p>
+
+<p>
+<img src="https://github.com/bigbearbunkie/osTicket-Post-Installation-Configuration/blob/main/Post%20install%20step%206g.PNG?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
+<p> + Under "Permissions" tab: check every box</p>
+
+<p>
+<img src="https://github.com/bigbearbunkie/osTicket-Post-Installation-Configuration/blob/main/Post%20install%20step%206h.PNG?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
+<p> + Leave "Teams" tab as-is and click "Create"</p>
+
+<p>
+<img src="https://github.com/bigbearbunkie/osTicket-Post-Installation-Configuration/blob/main/Post%20install%20step%206i.PNG?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
+<p>
+Step 7: Configure a User (Customer)
+</p>
+
+<p> + In the Agent Panel: Users -> Add New</p>
+
+<p>
+<img src="https://github.com/bigbearbunkie/osTicket-Post-Installation-Configuration/blob/main/Post%20install%20Step%207.PNG?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
+<p> + Email: karen@gmail.com</p>
+<p> + Full Name: Karen</p>
+
+<p>
+<img src="https://github.com/bigbearbunkie/osTicket-Post-Installation-Configuration/blob/main/Post%20install%20Step%207b.PNG?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
+<p>
+Step 8: Configure SLA
+</p>
+
+<p> + Admin Panel -> Manage -> SLA -> "Add New SLA Plan"</p>
+
+<p>
+<img src="https://github.com/bigbearbunkie/osTicket-Post-Installation-Configuration/blob/main/Post%20install%20step%208.PNG?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
+<p> + Make three new SLA Plans:</p>
+<br />
+<p> - Sev-A (Grace Period: 1 hour, Schedule: 24/7)</p>
+
+<p>
+<img src="https://github.com/bigbearbunkie/osTicket-Post-Installation-Configuration/blob/main/Post%20install%20step%208b.PNG?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
+<p> - Sev-B (Grace Period: 4 hours, Schedule: 24/7)</p>
+
+<p>
+<img src="https://github.com/bigbearbunkie/osTicket-Post-Installation-Configuration/blob/main/Post%20install%20step%208c.PNG?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
+<p> - Sev-C (Grace Period: 8 hours, Business Hours)</p>
+
+<p>
+<img src="https://github.com/bigbearbunkie/osTicket-Post-Installation-Configuration/blob/main/Post%20install%20step%208d.PNG?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
+<p>
+Step 9: Configure Help Topics (For when users create a ticket)
+</p>
+
+<p> + Admin Panel -> Manage -> Help Topics -> "Add New Help Topic"</p>
+
+<p>
+<img src="https://github.com/bigbearbunkie/osTicket-Post-Installation-Configuration/blob/main/Post%20install%20step%209.PNG?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
+<p> + Make 3 new Help Topics:</p>
+<br />
+
+<p> - Topic: Business Critical Outage, Parent Topic: Report a Problem</p>
+
+<p>
+<img src="https://github.com/bigbearbunkie/osTicket-Post-Installation-Configuration/blob/main/Post%20install%20step%209b.PNG?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
+<p> - Topic: Personal Computer Issues, Parent Topic: Report a Problem</p>
+
+<p>
+<img src="https://github.com/bigbearbunkie/osTicket-Post-Installation-Configuration/blob/main/Post%20install%20step%209c.PNG?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
+<p> - Topic: Equipment Request, Parent Topic: General Inquiry</p>
+
+<p>
+<img src="https://github.com/bigbearbunkie/osTicket-Post-Installation-Configuration/blob/main/Post%20install%20step%209d.PNG?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
